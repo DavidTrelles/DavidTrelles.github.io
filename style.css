@@ -1,1 +1,23 @@
+body{
+  background-color: #4444;
+  color: charcoal;
+  font-family: "Times", Arial, Helvetica;
+  margin: 10% 15%;
+}
+.violinimg{
+  text-align: center
+    
+}
+.name{
+  text-align: center;
+}
+
+.exp-header{
+  
+  text-align: center
+  
+}
+.edu-header{
+  text-align:center
+}
 

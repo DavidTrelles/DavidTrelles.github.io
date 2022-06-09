@@ -1,7 +1,8 @@
+html{background-image: url('https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDMzMzYxNjgxNzIwNjgw/top-10-free-sheet-music-websites.jpg')}
 body{
-  background-color: #4444;
-  color: charcoal;
-  font-family: "Times", Arial, Helvetica;
+  background-color: #555555;
+  color: #ffffff;
+  font-family: "sans-serif";
   margin: 10% 15%;
 }
 .violinimg{
@@ -20,4 +21,6 @@ body{
 .edu-header{
   text-align:center
 }
-
+.video{
+  text-align:center
+}

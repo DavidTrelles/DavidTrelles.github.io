@@ -1,6 +1,7 @@
 html{
   background-image: url('https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDMzMzYxNjgxNzIwNjgw/top-10-free-sheet-music-websites.jpg'); 
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
+  background-size: cover;
     ;}
 body{
   background-color: #555555;
